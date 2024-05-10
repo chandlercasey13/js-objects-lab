@@ -17,7 +17,13 @@ const game = {
   ],
 };
 
-//console.log(game)
+console.log("Exercise 1:");
+
+console.dir(pokemon, { maxArrayLength: null });
+
+console.log("Exercise 2:");
+
+console.log(game);
 
 /*
 Exercise 3
@@ -27,7 +33,7 @@ Exercise 3
 
 Solve Exercise 3 here:
 */
-
+console.log("Exercise 3:");
 game.difficulty = "Med";
 
 /*

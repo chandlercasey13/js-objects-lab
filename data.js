@@ -153,4 +153,4 @@ const pokemon = [
   { number: 151, name: "Mew", type: "psychic", hp: 100, starter: false },
 ];
 //console.dir(pokemon, { maxArrayLength: null })
-console.log(pokemon[58].name);
+
